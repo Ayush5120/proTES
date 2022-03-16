@@ -81,7 +81,7 @@ docker-compose up -d --build
 Visit Swagger UI
 
 ```bash
-firefox http://localhost:7878/ga4gh/tes/v1/ui
+firefox http://localhost:8080/ga4gh/tes/v1/ui
 ```
 
 > **Note:** Host and port may differ if you have changed the configuration or
